@@ -1,2 +1,2 @@
-# SQUAD
+# TEAM ALPHA
 - Person A
