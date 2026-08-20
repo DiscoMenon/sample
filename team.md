@@ -1,2 +1,2 @@
-# SQUAD
+# TEAM BETA
 - Person A
