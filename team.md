@@ -1,2 +1,2 @@
-# TEAM BETA
+# TEAM MEMBERS
 - Person A
